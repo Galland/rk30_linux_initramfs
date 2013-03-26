@@ -9,7 +9,7 @@ It is fkubi's initramfs [1], for his RK3066 Linux kernel, who in turn based it o
 Visit this url for complete steps on how to compile Picuntu Linux kernel source code:
 
 http://hwswbits.blogspot.com.es/2013/03/compiling-picuntu-kernel-ubuntu-linux.html
-
+-----------
 
 
 

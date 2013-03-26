@@ -54,6 +54,9 @@ cd ..
 git clone https://github.com/aloksinha2001/picuntu-3.0.8-alok.git
 cd picuntu-3.0.8-alok/
 
+//copy Picuntu 0.9 RC3 config file (actually extracted from a running Picuntu, located at /proc/config.gz)
+cp ../initramfs/config .config
+
 //set the target architecture and toolchain location (CHANGE the base folder if you are not using ~/rk/)
 export ARCH=arm
 export CROSS_COMPILE=~/rk/toolchains/arm-eabi-linaro-4.6.2/bin/arm-eabi-
