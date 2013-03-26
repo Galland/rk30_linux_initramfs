@@ -6,10 +6,9 @@ This repo contains the initramfs.cpio required to compile Picuntu 0.9 RC3 Linux 
 It is fkubi's initramfs [1], for his RK3066 Linux kernel, who in turn based it on Debian's initramfs.cpio [2].
 
 
-For more up-to-date information: http://hwswbits.blogspot.com.es/2013/03/compiling-picuntu-kernel-ubuntu-linux.html
+Visit this url for complete steps on how to compile Picuntu Linux kernel source code:
 
-
-
+http://hwswbits.blogspot.com.es/2013/03/compiling-picuntu-kernel-ubuntu-linux.html
 
 
 
